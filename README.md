@@ -5,7 +5,7 @@ Amazon, a global leader in e-commerce, has achieved significant success in marke
 
 As a data analyst for Amazon India, the task is to analyse Amazon Brazil's data to identify trends, customer behaviours, and preferences that could be leveraged in the Indian market. This analysis will help Amazon India make informed decisions, enhance customer experience, and seize new opportunities.
 
-##🧾 Overview of the Schema
+## 🧾 Overview of the Schema
 The database schema consists of seven interconnected tables that provide insights into the operations of Amazon Brazil:
 
 Customers: Holds customer information, including unique identifiers and locations, to study customer demographics and behavior.
@@ -19,3 +19,4 @@ Product: Contains product specifications, such as category, size, and weight, fo
 Seller: Provides data about sellers, including their location and unique identifiers, to evaluate seller performance.
 
 Payments: Records transaction details, such as payment type and value, to understand payment preferences and financial performance.
+
